@@ -12,7 +12,7 @@
 
 ### `< Building things that matter />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+KIIT+Bhubaneswar;Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%40+KIIT+Bhubaneswar;Data-Analyst;AI+%26+ML+Enthusiast;Hackathon+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,8 +22,8 @@
 
 ```python
 deepro = {
-    "education"  : "B.Tech CSE @ KIIT Bhubaneswar (CGPA: 8.55)",
-    "focus"      : ["Full-Stack Dev", "AI/ML", "Cloud"],
+    "education"  : "B.Tech CSE @ KIIT Bhubaneswar (CGPA: 8.40)",
+    "focus"      : ["Data Analyst", "AI/ML", "Cloud"],
     "currently"  : "Exploring AI concepts & building cool stuff",
     "fun_fact"   : "I write code AND content — both compile fine 📝"
 }
@@ -60,8 +60,8 @@ deepro = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧠 **[CareSphere](https://github.com/deepro0204)** | AI-powered dropout prediction system using Hybrid ML (Random Forest + Rule-based logic) with role-based dashboards | Next.js · Python · Supabase · Random Forest |
-| 🗜️ **[Huffman Compressor](https://github.com/deepro0204)** | Lossless file compressor with real-time binary visualization & efficiency metrics | JS · HTML5 · TailwindCSS · DSA |
+| 🧠 **[CareSphere](https://github.com/deepro0204/Student-Droupout-System)** | AI-powered dropout prediction system using Hybrid ML (Random Forest + Rule-based logic) with role-based dashboards | Next.js · Python · Supabase · Random Forest |
+| 🗜️ **[Huffman Compressor](https://github.com/deepro0204/File-Compressor-Huffman-Coding-)** | Lossless file compressor with real-time binary visualization & efficiency metrics | JS · HTML5 · TailwindCSS · DSA |
 | 🎫 **[IT Complaint CMS](https://github.com/deepro0204)** | Enterprise complaint management portal with auto-closure logic, built for IndianOil | ReactJS · Flask · PostgreSQL · JWT |
 
 ---
@@ -84,7 +84,7 @@ Built a web-based IT Complaint Management System with role-based access and real
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepro-bhattacharyya-7131b0228/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepro0204)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepro0204@gmail.com)
 
