@@ -22,7 +22,7 @@
 
 ```python
 deepro = {
-    "education"  : "B.Tech CSE @ KIIT Bhubaneswar (CGPA: 8.40)",
+    "education"  : "B.Tech CSE @ KIIT Bhubaneswar",
     "focus"      : ["Data Analyst", "AI/ML", "Cloud"],
     "currently"  : "Exploring AI concepts & building cool stuff",
     "fun_fact"   : "I write code AND content — both compile fine 📝"
