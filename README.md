@@ -51,7 +51,7 @@ deepro = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧠 **[CareSphere](https://github.com/deepro0204/Student-Droupout-System)** | AI-powered dropout prediction system using Hybrid ML (Random Forest + Rule-based logic) with role-based dashboards | Next.js · Python · Supabase · Random Forest |
+| 🧠 **[Student Dropout System](https://github.com/deepro0204/Student-Droupout-System)** | AI-powered dropout prediction system using Hybrid ML (Random Forest + Rule-based logic) with role-based dashboards | Next.js · Python · Supabase · Random Forest |
 | 🗜️ **[Huffman Compressor](https://github.com/deepro0204/File-Compressor-Huffman-Coding-)** | Lossless file compressor with real-time binary visualization & efficiency metrics | JS · HTML5 · TailwindCSS · DSA |
 | 🎫 **[IT Complaint CMS](https://github.com/deepro0204)** | Enterprise complaint management portal with auto-closure logic, built for IndianOil | ReactJS · Flask · PostgreSQL · JWT |
 
