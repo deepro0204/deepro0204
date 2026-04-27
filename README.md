@@ -60,7 +60,7 @@ deepro = {
 ## 🏆 Highlights
 
 - 🥇 **Internal Hackathon Winner** — Smart India Hackathon 2024 & 2025 (MHRD, Govt. of India)
-- 🏅 **Finalist** — HackVega'25 by HirePro
+- 🏅 **Finalist** — HackVega'25 organised by HirePro
 - 📊 **Top 30** — CodeSprint 2.0 by USC KIIT
 - 🤖 **Certified** — Generative AI Career Essentials by Microsoft & LinkedIn
 
