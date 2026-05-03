@@ -21,7 +21,7 @@
 
 ```python
 deepro = {
-    "education"  : "B.Tech CSE @ KIIT Bhubaneswar (CGPA: 8.40)",
+    "education"  : "B.Tech CSE @ KIIT Bhubaneswar",
     "focus"      : ["Full-Stack Dev", "AI/ML", "RAG & LLMs"],
     "currently"  : "Building a Legal AI Chatbot with RAG + LLaMA",
     "fun_fact"   : "I write code AND content — both compile fine 📝"
